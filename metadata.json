@@ -1,0 +1,9 @@
+{
+  "name": "LasuSphere",
+  "description": "A comprehensive student management system featuring secure authentication, specialized AI chatbots, integrated calendar, and academic goal tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
